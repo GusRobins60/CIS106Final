@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Finalproject\SimpleRobot\SimpleRobot\bin\Debug\SimpleRobot.exe.config
+C:\Users\ASUS\Desktop\Finalproject\SimpleRobot\SimpleRobot\bin\Debug\SimpleRobot.exe
+C:\Users\ASUS\Desktop\Finalproject\SimpleRobot\SimpleRobot\bin\Debug\SimpleRobot.pdb
+C:\Users\ASUS\Desktop\Finalproject\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Finalproject\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Finalproject\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Finalproject\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Finalproject\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.exe
+C:\Users\ASUS\Desktop\Finalproject\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.pdb
+C:\Users\ASUS\Desktop\Finalproject\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.Robot.resources
